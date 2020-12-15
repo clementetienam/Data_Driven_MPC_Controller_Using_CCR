@@ -104,6 +104,7 @@ Both datasets can be found i the Data directory
 -The training dataset for the controller is found in the "GSHP.csv" FILE
 
 Running the Numerical Experiment:
+-----------------------------
 -Run the script TRAINING.m to learn the machines of the LSTM, states to room temperature and states+contoller (GSHP pump) to temperature
 -Optimise the controller input using the DD_MPC.m for Batch optimisation or DD_MPC_SEQUENTIAL_2 for sequential optimsation
 
