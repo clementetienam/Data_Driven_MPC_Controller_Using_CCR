@@ -1,6 +1,4 @@
 # Data_Driven_MPC_Controller_Using_CCR
-Data Drive Model Predictive Control:
----------------------------------------------
 ------------------------------------------------------------------------------
 Box Configuration
 Inputs:
